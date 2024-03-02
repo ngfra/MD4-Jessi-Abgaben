@@ -12,7 +12,7 @@
   <div class="container">
     <header>
       <img class="header-img" src="imgs/header-img.svg" alt="working">
-      <h1>Hallo, bereit für einen effectiven Tag?</h1>
+      <h1>Hallo, bereit für einen effektiven Tag?</h1>
     </header>
     <main>
       <p>Was müssen Sie erledigen?</p>
